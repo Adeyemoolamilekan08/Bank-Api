@@ -1,4 +1,6 @@
 Paystack Bank API Integration in Laravel
+
+
 This project demonstrates how to integrate the Paystack API into a Laravel application to fetch Nigerian banks and resolve user details based on their account number and bank code.
 
 Features
